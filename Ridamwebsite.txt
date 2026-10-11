@@ -1,0 +1,4 @@
+uahsczincszcczsc
+git init
+
+git config
